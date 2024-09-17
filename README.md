@@ -1,4 +1,4 @@
-# Snowflake-Setup integration with Azure and copy csv files to SnowFlake using stage and integration
+# Setup integration with Azure and copy csv files to SnowFlake using stage and integration
 
 Created storage account and added 2 containers csv and json . Added one csv and json files in each containers
 
@@ -30,6 +30,11 @@ Go To IAM
 
 ![image](https://github.com/user-attachments/assets/7cef6b88-b8ba-4890-a3be-2981ba59a5ee)
 
+Now connection to Azure blob storage containers are successfule
+
+![image](https://github.com/user-attachments/assets/ae3ba304-9590-41c7-bc30-ea243d93ab2d)
+
+
 
 ![image](https://github.com/user-attachments/assets/60d8a053-5547-4c73-95e6-4315630e53e8)
 
@@ -47,6 +52,35 @@ Next we will create File format and stage in SnowFlake
 
 
 ![image](https://github.com/user-attachments/assets/62947cb0-57ee-48b2-b08c-616efa3811c3)
+
+To check data is able to view or not 
+
+![image](https://github.com/user-attachments/assets/68b058c8-9db5-43f6-a032-49324a9b9ef8)
+
+
+Next step, create table and load csv data in to this new table
+
+![image](https://github.com/user-attachments/assets/e0906134-5534-415d-b515-d0e0d6d64daa)
+
+
+![image](https://github.com/user-attachments/assets/bf551253-f64a-45d6-a976-aeb8a4531dd3)
+
+Modified fileformat to include skip header
+
+![image](https://github.com/user-attachments/assets/a5f88f24-7e29-4947-9562-43aa9cac9dbe)
+
+
+Data  Loaded Successfully
+
+
+![image](https://github.com/user-attachments/assets/5b3db8fc-4fcc-4cf2-8fc3-b42e35f34556)
+
+![image](https://github.com/user-attachments/assets/90188a7c-073b-42c3-aaeb-37669ba042d9)
+
+# Happy Learning !!!!
+
+
+
 
 
 
