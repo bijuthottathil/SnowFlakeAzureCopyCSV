@@ -31,6 +31,34 @@ Go To IAM
 ![image](https://github.com/user-attachments/assets/7cef6b88-b8ba-4890-a3be-2981ba59a5ee)
 
 
+![image](https://github.com/user-attachments/assets/60d8a053-5547-4c73-95e6-4315630e53e8)
+
+Multitenant  should be provided in role ![image](https://github.com/user-attachments/assets/9b4600d8-892b-4ea3-bd51-72b4288c55d0)
+
+![image](https://github.com/user-attachments/assets/95efb235-a857-47b5-a0e0-dd77e0a6dc25)
+
+Assign the role
+
+![image](https://github.com/user-attachments/assets/5068ce2f-2a8b-4636-9e53-290df8ce1b43)
+
+Next we will create File format and stage in SnowFlake
+
+![image](https://github.com/user-attachments/assets/57f73eca-1856-4a7c-b532-8208c5a83a3c)
+
+
+![image](https://github.com/user-attachments/assets/62947cb0-57ee-48b2-b08c-616efa3811c3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
